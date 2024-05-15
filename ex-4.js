@@ -1,6 +1,6 @@
 //Exercise 4
 // Switch Statement
-let lightBulbStatus = "";
+let lightBulbStatus = "On";
 
 //Start coding here
 switch (lightBulbStatus) {
